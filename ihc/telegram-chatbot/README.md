@@ -1,13 +1,13 @@
-# Chatbot com LLama e Banco de Dados SQLite
+# Chatbot com Functionary e Banco de Dados SQLite
 
-Este projeto configura um chatbot utilizando o modelo de linguagem LLama e um banco de dados SQLite para gerenciar livros e autores. O chatbot é implementado utilizando a biblioteca `telebot` para interagir com usuários via Telegram.
+Este projeto configura um chatbot utilizando o modelo de linguagem Functionary e um banco de dados SQLite para gerenciar livros e autores. O chatbot é implementado utilizando a biblioteca `telebot` para interagir com usuários via Telegram.
 
 O chat do Telegram interage por meio de uma inteligência artificial (IA) que lê a mensagem do usuário e busca a melhor correspondência entre as funções predefinidas dentro do código. Este sistema pode ser ajustado para diferentes fins, dependendo das necessidades do projeto.
 
 
 ## Link para o Google Colab
 
-Você pode acessar o projeto completo no Google Colab através deste [link](https://colab.research.google.com/drive/1UEKwRdVjj-QOFQ9mst3jLB5ATZeKV_vR#scrollTo=9sWGWwgcSaXq).
+Você pode acessar o projeto completo no Google Colab através deste [link](https://colab.research.google.com/drive/1UEKwRdVjj-QOFQ9mst3jLB5ATZeKV_vR#scrollTo=9sWGWwgcSaXq){:target="_blank"}.
 
 ## Configurando o Telegram
 
@@ -56,6 +56,8 @@ Até o momento, o bot implementa as seguintes funcionalidades:
 6. **Finalizar Compra:** Finaliza a compra e limpa o carrinho.
 
 7. **Obter Autor pelo Título do Livro:** Retorna o autor de um livro especificado pelo título.
+
+8. **Listas todos os Livros:** Lista todos os livros presentes no banco de dados.
 
 Cada função desempenha um papel específico no bot, facilitando a interação do usuário com o sistema de gerenciamento de livros e autores.
 
