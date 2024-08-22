@@ -7,7 +7,7 @@ O chat do Telegram interage por meio de uma inteligência artificial (IA) que l�
 
 ## Link para o Google Colab
 
-Você pode acessar o projeto completo no Google Colab através deste [link](https://colab.research.google.com/drive/1UEKwRdVjj-QOFQ9mst3jLB5ATZeKV_vR#scrollTo=9sWGWwgcSaXq){:target="_blank"}.
+Você pode acessar o projeto completo no Google Colab através deste [link](https://colab.research.google.com/drive/1UEKwRdVjj-QOFQ9mst3jLB5ATZeKV_vR#scrollTo=9sWGWwgcSaXq).
 
 ## Configurando o Telegram
 
